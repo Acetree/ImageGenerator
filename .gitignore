@@ -2,4 +2,5 @@ trait-layers/
 images/
 metadata/
 .DS_Store
+.ipynb_checkpoints/
 
